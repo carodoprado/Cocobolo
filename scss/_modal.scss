@@ -1,0 +1,25 @@
+.btn-outline-info {
+    color: $primary-color;
+    border-color: $primary-color;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:$terciary-color;
+    border-color: $terciary-color;
+
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color:$primary-color;
+    border-color: $primary-color;
+
+}
+
+.btn-outline-info:hover {
+    color: white;
+    background-color: $primary-color;
+    border-color:$primary-color;
+
+}
